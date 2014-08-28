@@ -9,3 +9,4 @@ class BagOfWords
 		@words += words	
 	end
 end
+
