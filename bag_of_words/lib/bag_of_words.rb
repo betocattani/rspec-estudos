@@ -1,5 +1,4 @@
 class BagOfWords
-
 	attr_reader :words
 
 	def initialize
